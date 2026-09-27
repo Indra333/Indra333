@@ -1,10 +1,10 @@
 # Indrasenareddy Annapureddy
 
-Data Engineer with 5+ years of experience building scalable batch and streaming data pipelines. I work across the modern data stack, turning raw data into reliable, well-tested analytics products — from ingestion and orchestration through modeling and serving.
+Data Engineer with 5+ years of experience building scalable batch and streaming data pipelines. I work across the modern data stack, turning raw data into reliable, well-tested analytics products from ingestion and orchestration through modeling and serving.
 
 Currently a Data Engineer at Progressive Insurance, where I design and operate production ETL/ELT pipelines.
 
-**Open to new opportunities** — reach me on [LinkedIn](https://www.linkedin.com/in/indrasena07/).
+**Open to new opportunities** reach me on [LinkedIn](https://www.linkedin.com/in/indrasena07/).
 
 ## Stack
 
@@ -23,6 +23,6 @@ Currently a Data Engineer at Progressive Insurance, where I design and operate p
 
 A few portfolio builds that show how I work:
 
-* **pyspark-etl-pipeline** — end-to-end batch ETL in PySpark with SCD Type 1 handling, partitioned Parquet output, data-quality gates, and pytest coverage.
-* **airflow-data-pipelines** — production-style Airflow DAGs: a daily ETL with retries and SLAs, plus a backfill-friendly partitioned pipeline.
-* **dbt-analytics-engineering** — layered dbt project (staging → intermediate → marts) with data tests and docs, running locally on DuckDB.
+* **pyspark-etl-pipeline** end-to-end batch ETL in PySpark with SCD Type 1 handling, partitioned Parquet output, data-quality gates, and pytest coverage.
+* **airflow-data-pipelines** production-style Airflow DAGs: a daily ETL with retries and SLAs, plus a backfill-friendly partitioned pipeline.
+* **dbt-analytics-engineering** layered dbt project (staging → intermediate → marts) with data tests and docs, running locally on DuckDB.
